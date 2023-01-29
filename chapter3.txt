@@ -1,2 +1,1 @@
-It's chaprter 3 of story folder which is created for git version control
-this is modified chapter 3
+hey, This is chapter 3 of my story read it carefully.
