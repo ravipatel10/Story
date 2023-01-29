@@ -1,1 +1,2 @@
 It's chaprter 1 of story folder that is created for git version control
+this is modified chapter 1
